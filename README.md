@@ -32,8 +32,7 @@ This intensive 8-week program is designed to rapidly build your expertise in Rei
   - [Lecture Videos](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOk8)
   - [Lecture Slides](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 - **Blog Posts:**
-  - ["An Introduction to Markov Decision Processes" by Lilian Weng](https://lilianweng.github.io/posts/2018-04-08-mdp/)
-  - ["Demystifying the Bellman Equation" by Thomas Simonini](https://towardsdatascience.com/demystifying-the-bellman-equation-c08812c2e75f)
+  - ["A (Long) Peek into Reinforcement Learning" by Lilian Weng](https://lilianweng.github.io/posts/2018-02-19-rl-overview/)
 
 **Assignments:**
 
@@ -76,7 +75,6 @@ This intensive 8-week program is designed to rapidly build your expertise in Rei
 - **Research Paper:** Watkins, C. J. C. H., & Dayan, P. (1992). *Q-Learning*.
 - **Lecture Series:** David Silver's RL Course, Lectures 3-4.
 - **Blog Posts:**
-  - ["Reinforcement Learning: An Introduction to TD Learning" by Markov Decision Processes blog](https://mpatacchiola.github.io/blog/2017/05/14/dissecting-reinforcement-learning-2.html)
   - ["Understanding SARSA and Q-Learning" by Arthur Juliani](https://medium.com/emergent-future/simple-reinforcement-learning-q-learning-fcddc4b6fe56)
 
 **Assignments:**
@@ -165,9 +163,8 @@ This intensive 8-week program is designed to rapidly build your expertise in Rei
   - Van Hasselt, H. et al. (2016). *Deep Reinforcement Learning with Double Q-learning*.
   - Wang, Z. et al. (2015). *Dueling Network Architectures for Deep Reinforcement Learning*.
 - **Lecture Series:** David Silver's RL Course, Lecture 7.
-- **Blog Posts:**
-  - ["Deep Q-Learning Demystified" by Arthur Juliani](https://medium.com/emergent-future/learning-to-run-with-deep-rl-lab-3-7b4b3246d15)
-  - ["An Introduction to Deep Q-Learning: Let's Play Atari" by Jaromír Janisch](https://jaromiru.com/2016/10/03/lets-make-a-dqn-theory/)
+- **Videos:**
+  - ["Train Deep Q-Learning on Atari in PyTorch" by brthor](https://www.youtube.com/watch?v=tsy1mgB7hB0)
 
 **Assignments:**
 
@@ -215,7 +212,7 @@ This intensive 8-week program is designed to rapidly build your expertise in Rei
 - **Lecture Series:** David Silver's RL Course, Lecture 8.
 - **Blog Posts:**
   - ["Policy Gradient Algorithms" by OpenAI Spinning Up](https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html)
-  - ["A2C — Advantage Actor Critic Algorithm" by Thomas Simonini](https://medium.com/@thomascount/advantage-actor-critic-a2c-in-pytorch-with-experience-replay-7c98c92dff55)
+  - ["An intro to Advantage Actor Critic methods: let’s play Sonic the Hedgehog!"](https://medium.com/free-code-camp/an-intro-to-advantage-actor-critic-methods-lets-play-sonic-the-hedgehog-86d6240171d)
 
 **Assignments:**
 
@@ -260,8 +257,8 @@ This intensive 8-week program is designed to rapidly build your expertise in Rei
   - Fujimoto, S. et al. (2018). *Addressing Function Approximation Error in Actor-Critic Methods*.
 - **Blog Posts:**
   - ["Understanding PPO" by OpenAI](https://openai.com/blog/openai-baselines-ppo/)
-  - ["Demystifying Soft Actor-Critic (SAC)" by Lilian Weng](https://lilianweng.github.io/posts/2019-01-23-soft-actor-critic/)
-  - ["An Introduction to DDPG and TD3" by Arthur Juliani](https://medium.com/@tuzzer/ddpg-td3-deep-deterministic-policy-gradient-e9f06e253236)
+  - ["Demystifying Soft Actor-Critic (SAC)" by Towards Data Science](https://towardsdatascience.com/soft-actor-critic-demystified-b8427df61665)
+  - ["An Introduction to DDPG and TD3" by Arthur Juliani](https://awjuliani.medium.com/)
 - **Lecture Series:**
   - Sergey Levine's Deep RL Course, Lectures on Advanced Policy Gradients
     - [Course Website](http://rail.eecs.berkeley.edu/deeprlcourse/)
@@ -313,7 +310,6 @@ This intensive 8-week program is designed to rapidly build your expertise in Rei
   - Lillicrap, T. P. et al. (2015). *Continuous control with deep reinforcement learning*.
   - Tobin, J. et al. (2017). *Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World*.
 - **Blog Posts:**
-  - ["Reinforcement Learning for Robotics" by UC Berkeley Robotics Lab](https://bair.berkeley.edu/blog/2017/10/06/rlrobots/)
   - ["Sim-to-Real Transfer in Robotics" by OpenAI](https://openai.com/blog/ingredients-for-robotics-research/)
 
 **Assignments:**
